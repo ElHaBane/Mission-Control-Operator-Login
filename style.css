@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(143, 197, 197);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#blink {
+    font-size: 20px;
+    font-weight: bold;
+    color: #b30f0f;
+    transition: 0.5s;
+}
